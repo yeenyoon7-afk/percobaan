@@ -1,0 +1,9 @@
+public class ContohDouble {
+    public static void main(String[] args) {
+        double angka1 = 10.5;
+        double angka2 = 20.75;
+        double hasil = angka1 * angka2;
+        
+        System.out.println("Hasil perkalian: " + hasil); // Output: 217.875
+    }
+}
